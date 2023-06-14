@@ -24,3 +24,5 @@ yarn-error.log*
 
 # idea
 .idea
+public
+node_modules
